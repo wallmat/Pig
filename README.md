@@ -1,3 +1,5 @@
+![screenshot](https://user-images.githubusercontent.com/15223204/53057477-9eb92180-347d-11e9-9763-1883853e358a.png)
+
 # Pig Dice Game
 Web based dice game made in JavaScript.
 
