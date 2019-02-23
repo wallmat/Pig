@@ -16,7 +16,7 @@ You can just download the repo and open the Index.html in your browser to play.
 * As soon as the player rolls the dice the first time I disable the target score input field to avoid changing.
 
 ## What I learned / am Learning
-* Basic JavaScript (variables, objects, functions, events...)
+* Basic JavaScript (ES5) (variables, objects, functions, events...)
 * Some CSS
 * Some HTML
 * Dom manipulation with JavaScript
