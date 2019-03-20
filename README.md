@@ -3,6 +3,9 @@
 # Pig Dice Game
 Web based dice game made in JavaScript.
 
+## Try it out here! <br/>
+https://wallmat.github.io/Pig/
+
 ## Background
 As I try to grow professionally, I am always trying to learn new things. This was part of the class I was taking at the time. 
 I wanted to add a little more polish. So I changed a few things listed below.
